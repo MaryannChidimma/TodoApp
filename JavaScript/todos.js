@@ -34,7 +34,7 @@ function renderTodo(todo) {
         <label for="${todo.id}" class="tick js-tick"></label>
         <span> ${todo.text}</span>
          <button  class = "delbtn"onclick = "deleteItem(${todo.id})"> X </button>
-        
+    
     </li>
  `);
   }
