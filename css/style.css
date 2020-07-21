@@ -6,10 +6,11 @@
   font-size: 20px;
 } 
 .container{
-    margin-left:33%;
-    width: 400px;
+    margin:0 auto; 
+    width: 800px;
     height: 100px;  
-    align-content: center;   
+    align-content: center;
+   
 }
 
 .todos-list-form{
